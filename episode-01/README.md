@@ -15,7 +15,6 @@ Welcome to **Container Harbour**, where Kubernetes is the harbourmaster and your
 ## 📁 Files in This Episode
 
 - **`README.md`**: This guide and links to the article
-- **`Code`**: The code from the article
 
 ## 🚀 Quick Start
 
@@ -24,4 +23,3 @@ There are no manifests in this episode yet—this one is the conceptual overview
 ## 📚 Additional Resources
 
 - [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
-- [Code](./code/README.md)

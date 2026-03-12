@@ -15,6 +15,7 @@ Pods are the smallest deployable unit in Kubernetes. A container is *cargo*; the
 ## 📁 Files in This Episode
 
 - **`README.md`**: This guide and links to the article
+- **`[Code](./code/README.md)`**: The code from the article
 
 ## 🚀 Quick Start
 
