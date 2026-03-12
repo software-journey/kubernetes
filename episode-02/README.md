@@ -2,9 +2,9 @@
 
 Pods are the smallest deployable unit in Kubernetes. A container is *cargo*; the Pod is the *shipping container*.
 
-**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep02-####)**
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep2-2ga6)**
 
-- **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-02.png`
+<image src="https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-02.png">
 
 ## 🎯 What You’ll Learn
 

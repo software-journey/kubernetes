@@ -2,9 +2,9 @@
 
 Autoscaling is how you handle traffic spikes without waking up at 3am: scale Pods, and (when needed) scale nodes.
 
-**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep12-####)**
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep12-1cm0)**
 
-- **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-12.png`
+<image src="https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-12.png">
 
 ## 🎯 What You’ll Learn
 

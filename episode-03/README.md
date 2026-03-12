@@ -2,9 +2,9 @@
 
 A cluster is the whole harbour. Nodes are the quays where Pods land.
 
-**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep03-####)**
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep3-1fe4)**
 
-- **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-03.png`
+<image src="https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-03.png">
 
 ## 🎯 What You’ll Learn
 

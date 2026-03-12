@@ -2,9 +2,9 @@
 
 Configuration should not be baked into images. ConfigMaps and Secrets are Kubernetes’ way to deliver config safely at runtime.
 
-**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep08-####)**
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep8-38ch)**
 
-- **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-08.png`
+<image src="https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-08.png">
 
 ## 🎯 What You’ll Learn
 

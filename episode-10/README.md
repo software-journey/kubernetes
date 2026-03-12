@@ -2,9 +2,9 @@
 
 RBAC is how you prevent “everyone is cluster-admin” disasters. Least privilege is the goal; reduced blast radius is the reward.
 
-**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep10-####)**
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep10-4jm3)**
 
-- **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-10.png`
+<image src="https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-10.png">
 
 ## 🎯 What You’ll Learn
 

@@ -2,9 +2,9 @@
 
 Pods are ephemeral freight containers. Databases aren’t. Persistent storage is the warehouse your data can live in even when Pods come and go.
 
-**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep09-####)**
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep9-40dh)**
 
-- **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-09.png`
+<image src="https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-09.png">
 
 ## 🎯 What You’ll Learn
 

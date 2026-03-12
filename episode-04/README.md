@@ -2,9 +2,9 @@
 
 The control plane is the harbourmaster’s tower: API server, scheduler, controllers, and etcd working together to keep desired state and actual state aligned.
 
-**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep04-####)**
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep4-2m4k)**
 
-- **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-04.png`
+<image src="https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-04.png">
 
 ## 🎯 What You’ll Learn
 
