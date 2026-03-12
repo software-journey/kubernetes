@@ -1,0 +1,14 @@
+# This is a Pod. Your first one. Look at it. Beautiful. 😍
+apiVersion: v1
+kind: Pod
+metadata:
+  name: banana-shipment        # The container's serial number
+  labels:
+    cargo: bananas             # What's inside (useful for routing)
+    origin: rotterdam          # Where it came from
+spec:
+  containers:
+  - name: banana-app           # The cargo inside the container
+    image: nginx:latest        # The image (what kind of cargo?)
+    ports:
+    - containerPort: 80        # The loading dock door number
