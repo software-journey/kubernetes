@@ -19,3 +19,8 @@ Materials and episode folders for the **“Welcome to Container Harbour!”** se
 - [Episode 13 - Jobs and CronJobs](episode-13/README.md)
 - [Episode 14 - StatefulSets](episode-14/README.md)
 - [Episode 15 - Rolling Updates and Zero Downtime](episode-15/README.md)
+
+## Installation Instructions
+
+- [Kind](./KIND.md)
+- [Minikube](./MINIKUBE.md)
