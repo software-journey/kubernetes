@@ -2,8 +2,9 @@
 
 Welcome to **Container Harbour**, where Kubernetes is the harbourmaster and your apps are freight containers.
 
-- **Source article (Markdown)**: `https://github.com/vanHeemstraPublications/dev-to/blob/main/articles/container-harbour-ep01.md`
-- **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-01.png`
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep01-####)**
+
+<image src="https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-01.png">
 
 ## 🎯 What You’ll Learn
 

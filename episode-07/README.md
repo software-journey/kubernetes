@@ -2,7 +2,8 @@
 
 Ingress is the “one gate” that can route external HTTP(S) traffic to the right internal Services—without spinning up 17 load balancers.
 
-- **Source article (Markdown)**: `https://github.com/vanHeemstraPublications/dev-to/blob/main/articles/container-harbour-ep07.md`
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep07-####)**
+
 - **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-07.png`
 
 ## 🎯 What You’ll Learn

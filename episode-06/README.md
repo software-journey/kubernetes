@@ -2,7 +2,8 @@
 
 Pods come and go; IPs change. Services are the stable harbour gate that traffic can reliably flow through.
 
-- **Source article (Markdown)**: `https://github.com/vanHeemstraPublications/dev-to/blob/main/articles/container-harbour-ep06.md`
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep06-####)**
+
 - **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-06.png`
 
 ## 🎯 What You’ll Learn

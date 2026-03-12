@@ -2,7 +2,8 @@
 
 “Running” isn’t enough. Probes tell Kubernetes whether your app is alive and whether it’s actually ready to receive traffic.
 
-- **Source article (Markdown)**: `https://github.com/vanHeemstraPublications/dev-to/blob/main/articles/container-harbour-ep11.md`
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep11-####)**
+
 - **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-11.png`
 
 ## 🎯 What You’ll Learn

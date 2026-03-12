@@ -2,7 +2,8 @@
 
 Manually managing Pods is chaos. Deployments and ReplicaSets are the forklift crew that keeps the right number of Pods running.
 
-- **Source article (Markdown)**: `https://github.com/vanHeemstraPublications/dev-to/blob/main/articles/container-harbour-ep05.md`
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep05-####)**
+
 - **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-05.png`
 
 ## 🎯 What You’ll Learn

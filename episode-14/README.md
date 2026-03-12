@@ -2,7 +2,8 @@
 
 Stateful workloads need stable identity and stable storage. StatefulSets provide the reserved berths your “diva” databases demand.
 
-- **Source article (Markdown)**: `https://github.com/vanHeemstraPublications/dev-to/blob/main/articles/container-harbour-ep14.md`
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep14-####)**
+
 - **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-14.png`
 
 ## 🎯 What You’ll Learn

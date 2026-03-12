@@ -2,7 +2,8 @@
 
 Jobs and CronJobs are for work that should run to completion (once, or on a schedule)—the “night shift crew” in a version-controlled, observable way.
 
-- **Source article (Markdown)**: `https://github.com/vanHeemstraPublications/dev-to/blob/main/articles/container-harbour-ep13.md`
+**[📖 Read the full article on Dev.to](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep13-####)**
+
 - **Cover image**: `https://raw.githubusercontent.com/vanHeemstraPublications/dev-to/main/images/welcome-to-container-harbour-episode-13.png`
 
 ## 🎯 What You’ll Learn
